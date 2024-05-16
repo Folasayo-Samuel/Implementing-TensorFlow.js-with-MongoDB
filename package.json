@@ -1,0 +1,18 @@
+{
+  "name": "tensorflowjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.19.0",
+    "@tensorflow/tfjs-node": "^4.19.0",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.4"
+  }
+}
